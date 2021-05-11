@@ -1,4 +1,4 @@
-## Drac's Pasword Manager
+## Ultimatum Password Manager
 
 Welcome to my password manager. This is a simple password manager intended to be used within the terminal. I made this for personal use (and somewhat as an alternative to what my friend made), however, if you want to use this in your PC, feel free to clone it. 
 
